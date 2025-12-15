@@ -12,7 +12,7 @@ Un programa para llevar un registro de los artículos que posees.
 
 ## Instalación
 
-1.  Clona el repositorio: `git clone <URL_DEL_REPOSITORIO>`
+1.  Clona el repositorio: `git clone https://github.com/FenrirXlll/Sistema-de-inventario-personal.git`
 2.  Asegúrate de tener Python instalado.
 
 ## Uso
